@@ -16,3 +16,13 @@ Youtube links for lab solutions:
 [Week 7-Ex2 Some Things That Go Wrong with Methods](https://www.youtube.com/watch?v=1V5C0E8pOF8&list=UUl-1d10r2b7yk96jO1ZEwKQ&index=2&ab_channel=MingshanJia)<br />
 [Week 7-Ex3 Calling Methods](https://www.youtube.com/watch?v=rBoNRxPsI_4&list=UUl-1d10r2b7yk96jO1ZEwKQ&index=1&ab_channel=MingshanJia)<br />
 
+[Week 8-Ex1 Creating an Object](https://www.youtube.com/watch?v=ALbjSNeD6lg&ab_channel=MingshanJia)<br />
+[Week 8-Ex2 A Really Simple Class](https://www.youtube.com/watch?v=3gSXr9bFVzE&ab_channel=MingshanJia)<br />
+[Week 8-Ex3 A Simple, but not Really Simple Class](https://www.youtube.com/watch?v=bDCEhXuZn2M&ab_channel=MingshanJia)<br />
+[Week 8-Ex4 A Class that Does Something](https://www.youtube.com/watch?v=OfhKunhZJZU&ab_channel=MingshanJia)<br />
+[Week 8-Ex5 A More OO Bank Account](https://www.youtube.com/watch?v=XZPdKg5bXSc&ab_channel=MingshanJia)<br />
+[Week 8-Ex6 A More OO Summer](https://www.youtube.com/watch?v=fIieU0DEFgI&ab_channel=MingshanJia)<br />
+
+
+
+
