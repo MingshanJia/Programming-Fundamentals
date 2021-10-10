@@ -23,6 +23,9 @@ Youtube links for lab solutions:
 [Week 8-Ex5 A More OO Bank Account](https://www.youtube.com/watch?v=XZPdKg5bXSc&ab_channel=MingshanJia)<br />
 [Week 8-Ex6 A More OO Summer](https://www.youtube.com/watch?v=fIieU0DEFgI&ab_channel=MingshanJia)<br />
 
+[Week 9-Ex4 The "Did you read the lesson" Exercise](https://www.youtube.com/watch?v=EyB5JbwShD0&list=UUl-1d10r2b7yk96jO1ZEwKQ&index=3&ab_channel=MingshanJia)<br />
+[Week 9-Ex5 Find Smallest in a List](https://www.youtube.com/watch?v=C07z8yoaTNY&list=UUl-1d10r2b7yk96jO1ZEwKQ&index=2&ab_channel=MingshanJia)<br />
+[Week 9-Ex6 Smallest Swap again, but with a LinkedList and a twist](https://www.youtube.com/watch?v=HYBSBvhT7zQ&list=UUl-1d10r2b7yk96jO1ZEwKQ&index=1&ab_channel=MingshanJia)<br />
 
 
 
