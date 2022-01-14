@@ -1,6 +1,6 @@
 # Programming-Fundamentals
 
-21-22 Spring links for lab solutions:
+\[21-22 Spring\] links for lab solutions:
 
 - [Week 5-Ex1 Looping Over An Array](https://www.youtube.com/watch?v=QuS8-JuxdRM&list=UUl-1d10r2b7yk96jO1ZEwKQ&index=12&ab_channel=MingshanJia)<br />
 - [Week 5-Ex4 Smallest Swap](https://www.youtube.com/watch?v=Wla_WmkzIsQ&list=UUl-1d10r2b7yk96jO1ZEwKQ&index=11&ab_channel=MingshanJia)<br />
@@ -27,5 +27,5 @@
 - [Week 9-Ex5 Find Smallest in a List](https://www.youtube.com/watch?v=C07z8yoaTNY&list=UUl-1d10r2b7yk96jO1ZEwKQ&index=2&ab_channel=MingshanJia)<br />
 - [Week 9-Ex6 Smallest Swap again, but with a LinkedList and a twist](https://www.youtube.com/watch?v=HYBSBvhT7zQ&list=UUl-1d10r2b7yk96jO1ZEwKQ&index=1&ab_channel=MingshanJia)<br />
 
-21-22 Summer Recorded Lab Videos: 
+\[21-22 Summer\] Recorded Lab Videos: 
 - [Week 5](https://www.youtube.com/watch?v=1IfIy7xCsIc)<br/>
